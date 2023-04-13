@@ -3,7 +3,7 @@
     "axios": "^1.3.5"
   },
   "name": "hudu-api-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A client to quickly and easily make calls to the Hudu documentation tool's API.",
   "main": "out/index.js",
   "devDependencies": {},
