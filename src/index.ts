@@ -1,7 +1,7 @@
 
 import Axios from "axios"
 
-class APIClient {
+export class APIClient {
     apiKey: string
     domain: string
     constructor(domain: string, apiKey: string) {
